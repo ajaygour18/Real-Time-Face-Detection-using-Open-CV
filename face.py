@@ -1,6 +1,6 @@
 import cv2
 #load somepre trained data on face frontals from opencv
-trained_face_data=cv2.CascadeClassifier('C:\\Users\\Education\\Downloads\\haarcascade_frontalface_default.xml')
+trained_face_data=cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
 ## To capture video from webcam
 webcam=cv2.VideoCapture(0,cv2.CAP_DSHOW)
 while True:
