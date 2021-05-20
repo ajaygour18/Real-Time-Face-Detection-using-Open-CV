@@ -1,8 +1,8 @@
 # Real-Time-Face-Detection-using-Open-CV
 
-For run this code pre-requirement are:
-Download open CV in you PC, for download openCV type command in command promt:
-pip install opencv-python
+# To run this code pre-requirement are: 
+Download open CV in your PC, for download OpenCV type command in command prompt: 
+## pip install Opencv-python
 
 # I have used pre trained data provided by opencv.
 Here is a link:-
